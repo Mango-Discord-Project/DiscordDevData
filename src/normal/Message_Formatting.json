@@ -1,0 +1,33 @@
+{
+    "Formats": {
+        "User": [
+            "<@USER_ID>",
+            "<@!USER_ID>"
+        ],
+        "Chanel": [
+            "<#CHANNEL_ID>"
+        ],
+        "Role": [
+            "<@&ROLE_ID>"
+        ],
+        "Custom Emoji": [
+            "<:NAME:ID>"
+        ],
+        "Custom Emoji (Animated)": [
+            "<a:NAME:ID>"
+        ],
+        "Unix Timestamp": [
+            "<t:TIMESTAMP>",
+            "<t:TIMESTAMP:STYLE>"
+        ]
+    },
+    "Timestamp Styles": {
+        "t": "Short Time",
+        "T": "Long Time",
+        "d": "Short Date",
+        "D": "Long Date",
+        "f": "Short Date/Time",
+        "F": "Long Date/Time",
+        "R": "Relative Time"
+    }
+}
